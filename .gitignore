@@ -1,0 +1,27 @@
+# Build artifacts
+*.o
+*.d
+router
+protocol_engine
+storage
+monitor
+terminal
+console
+
+# Database
+*.db
+*.db-journal
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
